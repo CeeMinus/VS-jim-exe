@@ -1,0 +1,39 @@
+{
+	"storyName": "jimmy slim tim the 4th",
+	"hideFreeplay": false,
+	"weekBackground": "jimmy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"slimjim",
+			"pico",
+			[
+				95,
+				155,
+				215
+			]
+		],
+		[
+			"chartdis",
+			"pico",
+			[
+				95,
+				155,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "jim_week"
+}
