@@ -263,7 +263,7 @@ bool MainMenuState_obj::_hx_isInstanceOf(int inClassId) {
 
 void MainMenuState_obj::create(){
             	HX_GC_STACKFRAME(&_hx_pos_b0351dbbcbe2d566_41_create)
-HXLINE(  44)		::DiscordClient_obj::changePresence(HX_("In the Menus",0a,c1,ad,c6),null(),null(),null(),null());
+HXLINE(  44)		::DiscordClient_obj::changePresence(HX_("In the Jim Menu",fb,c2,bf,06),null(),null(),null(),null());
 HXLINE(  47)		this->camGame =  ::flixel::FlxCamera_obj::__alloc( HX_CTX ,null(),null(),null(),null(),null());
 HXLINE(  48)		this->camAchievement =  ::flixel::FlxCamera_obj::__alloc( HX_CTX ,null(),null(),null(),null(),null());
 HXLINE(  49)		{
@@ -302,13 +302,13 @@ HXLINE(  71)		this->add(this->camFollow);
 HXLINE(  72)		this->add(this->camFollowPos);
 HXLINE(  74)		 ::flixel::FlxSprite _hx_tmp2 =  ::flixel::FlxSprite_obj::__alloc( HX_CTX ,-80,null(),null());
 HXDLIN(  74)		::String library1 = null();
-HXDLIN(  74)		 ::flixel::graphics::FlxGraphic imageToReturn1 = ::Paths_obj::addCustomGraphic(HX_("menuDesat",26,91,04,72));
+HXDLIN(  74)		 ::flixel::graphics::FlxGraphic imageToReturn1 = ::Paths_obj::addCustomGraphic(HX_("menuBGmagenta",85,01,ef,32));
 HXDLIN(  74)		 ::Dynamic _hx_tmp3;
 HXDLIN(  74)		if (::hx::IsNotNull( imageToReturn1 )) {
 HXLINE(  74)			_hx_tmp3 = imageToReturn1;
             		}
             		else {
-HXLINE(  74)			_hx_tmp3 = ::Paths_obj::getPath(((HX_("images/",77,50,74,c1) + HX_("menuDesat",26,91,04,72)) + HX_(".png",3b,2d,bd,1e)),HX_("IMAGE",3b,57,57,3b),library1);
+HXLINE(  74)			_hx_tmp3 = ::Paths_obj::getPath(((HX_("images/",77,50,74,c1) + HX_("menuBGmagenta",85,01,ef,32)) + HX_(".png",3b,2d,bd,1e)),HX_("IMAGE",3b,57,57,3b),library1);
             		}
 HXDLIN(  74)		this->magenta = _hx_tmp2->loadGraphic(_hx_tmp3,null(),null(),null(),null(),null());
 HXLINE(  75)		this->magenta->scrollFactor->set(0,yScroll);

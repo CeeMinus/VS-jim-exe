@@ -616,7 +616,6 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_fresh_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_fresh_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_high_inst_ogg extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_high_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_hot_dilf_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_hot_dilf_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_milf_inst_ogg extends null { }
