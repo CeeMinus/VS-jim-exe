@@ -2,13 +2,14 @@
 	"storyName": "jimmy slim tim the 4th",
 	"hideFreeplay": false,
 	"weekBackground": "jimmy",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"pico",
 		"bf",
@@ -25,15 +26,23 @@
 			]
 		],
 		[
-			"chartdis",
+			"scam",
 			"pico",
 			[
+				35,
 				95,
-				155,
-				215
+				155
+			]
+		],
+		[
+			"reward",
+			"pico",
+			[
+				20,
+				20,
+				60
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "jim_week"
 }
