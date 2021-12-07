@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jim.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jim Sing Note DOWN0000" x="2" y="2" width="421" height="232"/>
+	<SubTexture name="Jim Sing Note DOWN0001" x="2" y="2" width="421" height="232"/>
+	<SubTexture name="Jim Sing Note DOWN0002" x="424" y="2" width="419" height="226" frameX="-2" frameY="-6" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0003" x="424" y="2" width="419" height="226" frameX="-2" frameY="-6" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0004" x="844" y="2" width="417" height="224" frameX="-3" frameY="-7" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0005" x="844" y="2" width="417" height="224" frameX="-3" frameY="-7" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0006" x="844" y="2" width="417" height="224" frameX="-3" frameY="-7" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0007" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0008" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0009" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0010" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0011" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0012" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0013" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0014" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note DOWN0015" x="1262" y="2" width="416" height="226" frameX="-3" frameY="-5" frameWidth="421" frameHeight="232"/>
+	<SubTexture name="Jim Sing Note LEFT0000" x="1679" y="2" width="179" height="431" frameX="-2" frameY="-1" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0001" x="1679" y="2" width="179" height="431" frameX="-2" frameY="-1" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0002" x="1859" y="2" width="177" height="432" frameX="-2" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0003" x="1859" y="2" width="177" height="432" frameX="-2" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0004" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0005" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0006" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0007" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0008" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0009" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0010" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0011" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0012" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0013" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0014" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0015" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0016" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0017" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing Note LEFT0018" x="2" y="435" width="174" height="433" frameX="0" frameY="0" frameWidth="181" frameHeight="433"/>
+	<SubTexture name="Jim Sing note UP0000" x="177" y="435" width="288" height="365" frameX="0" frameY="-43" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0001" x="177" y="435" width="288" height="365" frameX="0" frameY="-43" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0002" x="177" y="435" width="288" height="365" frameX="0" frameY="-43" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0003" x="466" y="435" width="288" height="392" frameX="0" frameY="-16" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0004" x="466" y="435" width="288" height="392" frameX="0" frameY="-16" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0005" x="466" y="435" width="288" height="392" frameX="0" frameY="-16" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0006" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0007" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0008" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0009" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0010" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0011" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0012" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0013" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0014" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0015" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0016" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0017" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0018" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0019" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0020" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0021" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0022" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0023" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0024" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0025" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0026" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0027" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0028" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0029" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0030" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0031" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0032" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0033" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0034" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0035" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0036" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0037" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0038" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0039" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0040" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0041" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0042" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0043" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0044" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0045" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0046" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0047" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0048" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0049" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0050" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0051" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0052" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0053" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0054" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0055" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0056" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0057" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0058" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim Sing note UP0059" x="755" y="435" width="277" height="408" frameX="-5" frameY="0" frameWidth="288" frameHeight="408"/>
+	<SubTexture name="Jim idle dance0000" x="1033" y="435" width="448" height="415"/>
+	<SubTexture name="Jim idle dance0001" x="1033" y="435" width="448" height="415"/>
+	<SubTexture name="Jim idle dance0002" x="1482" y="435" width="435" height="326" frameX="-9" frameY="-82" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0003" x="1482" y="435" width="435" height="326" frameX="-9" frameY="-82" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0004" x="2" y="869" width="434" height="355" frameX="-11" frameY="-56" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0005" x="2" y="869" width="434" height="355" frameX="-11" frameY="-56" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0006" x="2" y="869" width="434" height="355" frameX="-11" frameY="-56" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0007" x="437" y="869" width="434" height="377" frameX="-8" frameY="-34" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0008" x="437" y="869" width="434" height="377" frameX="-8" frameY="-34" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0009" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0010" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0011" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0012" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0013" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0014" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0015" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0016" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0017" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim idle dance0018" x="872" y="869" width="435" height="398" frameX="-7" frameY="-14" frameWidth="448" frameHeight="415"/>
+	<SubTexture name="Jim sing note RIGHT0000" x="1308" y="869" width="358" height="308" frameX="-9" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0001" x="1308" y="869" width="358" height="308" frameX="-9" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0002" x="1667" y="869" width="359" height="310" frameX="-9" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0003" x="1667" y="869" width="359" height="310" frameX="-9" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0004" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0005" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0006" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0007" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0008" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0009" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+	<SubTexture name="Jim sing note RIGHT0010" x="2" y="1268" width="370" height="309" frameX="0" frameY="0" frameWidth="370" frameHeight="310"/>
+</TextureAtlas>
