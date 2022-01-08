@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voidman_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voidguy Idle0000" x="0" y="0" width="325" height="706" pivotX="0" pivotY="0" frameX="-5" frameY="-13" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0001" x="0" y="0" width="325" height="706" frameX="-5" frameY="-13" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0002" x="325" y="0" width="321" height="708" frameX="-8" frameY="-11" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0003" x="325" y="0" width="321" height="708" frameX="-8" frameY="-11" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0004" x="646" y="0" width="320" height="712" frameX="-8" frameY="-7" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0005" x="646" y="0" width="320" height="712" frameX="-8" frameY="-7" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0006" x="966" y="0" width="325" height="717" frameX="-3" frameY="-2" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0007" x="966" y="0" width="325" height="717" frameX="-3" frameY="-2" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0008" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0009" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0010" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0011" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0012" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Idle0013" x="1291" y="0" width="327" height="719" frameX="0" frameY="0" frameWidth="330" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0000" x="1618" y="0" width="356" height="716" pivotX="36.25" pivotY="0.85" frameX="0" frameY="-3" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0001" x="1618" y="0" width="356" height="716" frameX="0" frameY="-3" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0002" x="1974" y="0" width="349" height="715" frameX="-8" frameY="-4" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0003" x="1974" y="0" width="349" height="715" frameX="-8" frameY="-4" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0004" x="2323" y="0" width="345" height="718" frameX="-12" frameY="-1" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0005" x="2668" y="0" width="345" height="718" frameX="-12" frameY="-1" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0006" x="3013" y="0" width="341" height="719" frameX="-16" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0007" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0008" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0009" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0010" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0011" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0012" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Left0013" x="3354" y="0" width="338" height="719" frameX="-19" frameY="0" frameWidth="357" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0000" x="3692" y="0" width="314" height="719" pivotX="-13.15" pivotY="0.8" frameX="-21" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0001" x="3692" y="0" width="314" height="719" frameX="-21" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0002" x="4006" y="0" width="312" height="717" frameX="-9" frameY="-2" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0003" x="4006" y="0" width="312" height="717" frameX="-9" frameY="-2" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0004" x="4318" y="0" width="312" height="718" frameX="-5" frameY="-1" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0005" x="4630" y="0" width="313" height="717" frameX="-4" frameY="-2" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0006" x="4943" y="0" width="315" height="718" frameX="0" frameY="-1" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0007" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0008" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0009" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0010" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0011" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0012" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Right0013" x="5258" y="0" width="314" height="719" frameX="0" frameY="0" frameWidth="335" frameHeight="719"/>
+	<SubTexture name="Voidguy Sing Up0000" x="5572" y="0" width="321" height="749" pivotX="3.4" pivotY="30.35" frameX="-6" frameY="0" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0001" x="5572" y="0" width="321" height="749" frameX="-6" frameY="0" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0002" x="5893" y="0" width="323" height="740" frameX="-5" frameY="-9" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0003" x="5893" y="0" width="323" height="740" frameX="-5" frameY="-9" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0004" x="6216" y="0" width="326" height="732" frameX="-3" frameY="-17" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0005" x="6542" y="0" width="327" height="732" frameX="-2" frameY="-17" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0006" x="6869" y="0" width="329" height="729" frameX="-1" frameY="-20" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0007" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0008" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0009" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0010" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0011" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0012" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy Sing Up0013" x="7198" y="0" width="330" height="725" frameX="0" frameY="-24" frameWidth="330" frameHeight="749"/>
+	<SubTexture name="Voidguy SingDown0000" x="7528" y="0" width="330" height="668" pivotX="-9.6" pivotY="-21.4" frameX="-1" frameY="-30" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0001" x="7528" y="0" width="330" height="668" frameX="-1" frameY="-30" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0002" x="7858" y="0" width="329" height="678" frameX="0" frameY="-20" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0003" x="7858" y="0" width="329" height="678" frameX="0" frameY="-20" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0004" x="0" y="749" width="329" height="686" frameX="0" frameY="-12" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0005" x="329" y="749" width="329" height="688" frameX="0" frameY="-10" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0006" x="658" y="749" width="328" height="696" frameX="0" frameY="-2" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0007" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0008" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0009" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0010" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0011" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0012" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+	<SubTexture name="Voidguy SingDown0013" x="986" y="749" width="327" height="698" frameX="0" frameY="0" frameWidth="331" frameHeight="698"/>
+</TextureAtlas>

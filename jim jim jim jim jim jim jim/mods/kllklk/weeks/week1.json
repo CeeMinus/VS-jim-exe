@@ -1,0 +1,48 @@
+{
+	"storyName": "snf shit",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Sunset",
+			"face",
+			[
+				140,
+				113,
+				253
+			]
+		],
+		[
+			"Subeana",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Kokowa",
+			"4gou",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"4gou",
+		""
+	],
+	"weekName": "snf shit"
+}

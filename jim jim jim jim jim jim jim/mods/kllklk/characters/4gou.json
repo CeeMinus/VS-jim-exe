@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-291
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "koronba idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-291
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "koronba idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-302
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "koronba down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-295
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "koronba left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-262
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "koronba up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-16,
+				-262
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "koronba up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-46,
+				-296
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "koronba left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-58,
+				-292
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "koronba right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/4gou",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "4gou",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-110,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

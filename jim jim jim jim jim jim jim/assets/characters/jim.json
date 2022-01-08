@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jim Idle"
+		},
+		{
+			"offsets": [
+				-99,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jim Left"
+		},
+		{
+			"offsets": [
+				-100,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jim Right"
+		},
+		{
+			"offsets": [
+				-20,
+				-406
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jim Down"
+		},
+		{
+			"offsets": [
+				-82,
+				-215
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jim Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jim_assets",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "jim",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		85,
+		142
+	],
+	"camera_position": [
+		40,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

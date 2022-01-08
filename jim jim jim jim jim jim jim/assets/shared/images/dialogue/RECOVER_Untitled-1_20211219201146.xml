@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECOVER_Untitled-1_20211219201146.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jim0000" x="0" y="0" width="329" height="354"/>
+	<SubTexture name="jim_talk0000" x="330" y="0" width="305" height="357" frameX="-10" frameY="-3" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0001" x="330" y="0" width="305" height="357" frameX="-10" frameY="-3" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0002" x="636" y="0" width="305" height="350" frameX="-5" frameY="-9" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0003" x="636" y="0" width="305" height="350" frameX="-5" frameY="-9" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0004" x="0" y="358" width="329" height="353" frameX="-3" frameY="-44" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0005" x="0" y="358" width="329" height="353" frameX="-3" frameY="-44" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0006" x="330" y="358" width="305" height="362" frameX="0" frameY="0" frameWidth="332" frameHeight="397"/>
+	<SubTexture name="jim_talk0007" x="330" y="358" width="305" height="362" frameX="0" frameY="0" frameWidth="332" frameHeight="397"/>
+</TextureAtlas>

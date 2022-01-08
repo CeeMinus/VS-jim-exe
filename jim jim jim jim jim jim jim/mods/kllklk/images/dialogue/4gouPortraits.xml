@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="4gouPortraits.png">
+	<SubTexture name="4gou Enter0000" x="0" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0001" x="1494" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0002" x="1494" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0003" x="0" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0004" x="0" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0005" x="1494" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0006" x="1494" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0007" x="1494" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou Enter0008" x="1494" y="870" width="1494" height="870"/>
+
+	<SubTexture name="4gou2 Enter0000" x="2988" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0001" x="4482" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0002" x="4482" y="0" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0003" x="2988" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0004" x="2988" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0005" x="4482" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0006" x="4482" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0007" x="4482" y="870" width="1494" height="870"/>
+	<SubTexture name="4gou2 Enter0008" x="4482" y="870" width="1494" height="870"/>
+
+	<SubTexture name="4gou7 Enter0000" x="0" y="1740" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0001" x="1494" y="1740" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0002" x="1494" y="1740" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0003" x="0" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0004" x="0" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0005" x="1494" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0006" x="1494" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0007" x="1494" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou7 Enter0008" x="1494" y="2610" width="1494" height="870"/>
+
+	<SubTexture name="4gou3 Enter0000" x="2988" y="1740" width="1494" height="870"/>
+	<SubTexture name="4gou3 Enter0001" x="2988" y="1740" width="1494" height="870"/>
+  
+	<SubTexture name="4gou4 Enter0000" x="4482" y="1740" width="1494" height="870"/>
+	<SubTexture name="4gou4 Enter0001" x="4482" y="1740" width="1494" height="870"/>
+  
+	<SubTexture name="4gou5 Enter0000" x="2988" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou5 Enter0001" x="2988" y="2610" width="1494" height="870"/>
+  
+	<SubTexture name="4gou6 Enter0000" x="4482" y="2610" width="1494" height="870"/>
+	<SubTexture name="4gou6 Enter0001" x="4482" y="2610" width="1494" height="870"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_4gou.png">
+ <SubTexture name="b1 4gou0000" x="4397" y="2773" width="352" height="352" frameX="-80" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0001" x="4773" y="2765" width="368" height="368" frameX="-72" frameY="-8" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0002" x="5157" y="2757" width="384" height="384" frameX="-64" frameY="0" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0003" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0004" x="5557" y="2757" width="432" height="352" frameX="-40" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0005" x="6005" y="2757" width="448" height="352" frameX="-32" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0006" x="5557" y="3125" width="480" height="352" frameX="-16" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b1 4gou0007" x="6053" y="3141" width="512" height="320" frameX="0" frameY="-32" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0000" x="4397" y="3173" width="352" height="352" frameX="-80" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0001" x="4773" y="3165" width="368" height="368" frameX="-72" frameY="-8" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0002" x="5157" y="3157" width="384" height="384" frameX="-64" frameY="0" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0003" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0004" x="5557" y="2757" width="432" height="352" frameX="-40" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0005" x="6005" y="2757" width="448" height="352" frameX="-32" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0006" x="5557" y="3125" width="480" height="352" frameX="-16" frameY="-16" frameWidth="512" frameHeight="384"/>
+  <SubTexture name="b2 4gou0007" x="6053" y="3141" width="512" height="320" frameX="0" frameY="-32" frameWidth="512" frameHeight="384"/>
+</TextureAtlas>

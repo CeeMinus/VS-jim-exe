@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				27,
+				-231
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Urotsuki Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				26,
+				-231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Urotsuki Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-231
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Urotsuki Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-231
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Urotsuki Sing Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				49,
+				-233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Urotsuki Sing Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				27,
+				-231
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Urotsuki Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				26,
+				-232
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Urotsuki Sing Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				48,
+				-232
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Urotsuki Sing Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				48,
+				-231
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Urotsuki Sing Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Urotsuki_Spritesheet",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-180,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
