@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KingIdle"
+		},
+		{
+			"offsets": [
+				-10,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KingUp"
+		},
+		{
+			"offsets": [
+				-10,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KingDown"
+		},
+		{
+			"offsets": [
+				-10,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KingRight"
+		},
+		{
+			"offsets": [
+				238,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KingLeft"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/King",
+	"position": [
+		-40,
+		140
+	],
+	"healthicon": "king",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		60
+	],
+	"camera_position": [
+		40,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
